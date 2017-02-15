@@ -1,1 +1,1 @@
-# Maths Fourer Transform
+# Maths Fourier Transform
